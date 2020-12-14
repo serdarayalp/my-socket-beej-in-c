@@ -32,7 +32,7 @@ int main(int argc, char *argv[]) {
 
     int sockfd, numbytes;
 
-    // buffer
+    // buffer...
     char buf[MAXDATASIZE];
 
     struct addrinfo hints, *servinfo, *p;
